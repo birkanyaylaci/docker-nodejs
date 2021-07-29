@@ -1,8 +1,5 @@
 Prerequisite
-  Installed:
-    Docker
-    git
-
+Installed: Docker, git
 
 Steps
 
